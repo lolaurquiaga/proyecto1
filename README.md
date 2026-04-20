@@ -1,4 +1,4 @@
-Soy Lola y este es el primer respositorio de mi visa.
+Soy Lola y este es el primer respositorio de mi viDa.
 Prácticas de la clase de Informática General - UNA multimediales.
 Estoy aprendiendo sobre este mundo.
 Se aceptan consejos y corecciones.
