@@ -1,0 +1,8 @@
+/* Este es mi primer css
+Estoy aprendiendo a usarlo para darle estilo a mi página web. */
+body {
+    background-color: #918f8f; /* Color de fondo */
+    font-family: Arial, Montserrat, sans-serif; /* Fuente del texto */
+    color: #fa0101; /* Color del texto */
+    margin: 20px; /* Margen alrededor del contenido */
+}
